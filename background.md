@@ -1,6 +1,4 @@
-This is the chart that I wrote during college to get an A in symbolic logic
-
-The professor saw that I got every question right on the final and then asked to see the chart. He gave me an A and then retired, so I was never able to get the chart back or make a copy
+This is the chart that I wrote during college to get an A in symbolic logic several years ago. The professor asked to have the chart and then retired, so I just never the chart back or was able to make a copy
 
 This is a reconstruction of it, standardized slightly and posted along with refactored derivatives for use in mathematics and computer science
 
