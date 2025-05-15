@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-license: MPL-2.0 license
+license: MIT License
 message: "If you use this software, please cite it as below."
 authors:
 - given-names: "Daniel" 
   family-names: "Buerer"
   orcid: "https://orcid.org/0009-0002-5084-0465"
-title: "port"
+title: "Buerer's Inference"
 version: 1.0.0
 doi: 10.5281/ZENODO.15424751
 date-released: 2025-05-15
